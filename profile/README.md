@@ -1,3 +1,5 @@
+*This page and its repositories are maintained by [Luke Arundel](https://taso.org.uk/person/luke-arundel/). If you have any questions about any of these repositories, please contact luke.arundel@taso.org.uk. For any other TASO queries, please contact info@taso.org.uk.*
+
 # About us 
 
 The Centre for Transforming Access and Student Outcomes in Higher Education (TASO) was set up in 2019 and is funded by the Office for Students.
