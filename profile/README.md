@@ -1,4 +1,4 @@
-*This page and its repositories are maintained by [Luke Arundel](https://taso.org.uk/person/luke-arundel/). If you have any questions about any of these repositories, please contact luke.arundel@taso.org.uk. For any other TASO queries, please contact info@taso.org.uk.*
+*If you have any questions about any of these repositories, please contact research@taso.org.uk. For any other TASO queries, please contact info@taso.org.uk.*
 
 # About us 
 
